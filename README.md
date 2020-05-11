@@ -7,4 +7,6 @@ Sample images in SS(RandomUserApi) folder
 
 ### API USED -> https://randomuser.me/
 
+
+
 ![LoginPage](https://github.com/Shashwat-Joshi/Flutter-Project-01/blob/master/SS(RandomUserApi)/LoginPage.png)
