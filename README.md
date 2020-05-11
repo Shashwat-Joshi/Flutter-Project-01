@@ -10,3 +10,4 @@ Sample images in SS(RandomUserApi) folder
 
 
 ![LoginPage](https://github.com/Shashwat-Joshi/Flutter-Project-01/blob/master/SS(RandomUserApi)/LoginPage.png)
+![HomePage](https://github.com/Shashwat-Joshi/Flutter-Project-01/blob/master/SS(RandomUserApi)/HomePage.png)
